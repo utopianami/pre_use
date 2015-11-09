@@ -13,7 +13,7 @@ public class Run {
 
 	public static void main(String[] args) {
 		
-		
+		System.out.println("test");
 		String path = "/Users/LeeYoungNam/Documents/pre_use/data";
 		ArrayList<Integer> imputePercente = new ArrayList<Integer>();
 		
